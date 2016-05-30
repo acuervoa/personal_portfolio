@@ -1,0 +1,51 @@
+body {
+    padding-top: 30px;
+}
+
+#about .jumbotron {
+    background: url('https://static.pexels.com/photos/6415/apple-desk-office-working.jpg');
+    background-size: cover;
+    min-height: 600px;
+}
+
+#about h1 {
+    font-size: 75px;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 4px blue;
+}
+
+#about ul {
+    margin-top: 5em;
+    text-align: center;
+}
+
+#portfolio {
+    background: url('https://upload.wikimedia.org/wikipedia/commons/e/e3/Atari-Portfolio-Computer.png');
+    background-size: cover;
+    min-height: 600px;
+}
+
+#portfolio h3 {
+    font-size: 75px;
+    color: black;
+    text-align: center;
+    text-shadow: 2px 2px 4px grey;
+}
+
+#portfolio .btn-proy {
+    margin-top: 25px;
+}
+
+#contact {
+    background: url('https://static.pexels.com/photos/154/people-apple-iphone-writing.jpg');
+    background-size: cover;
+    min-height: 600px;
+}
+
+#contact h3 {
+    font-size: 75px;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 4px black;
+}
